@@ -1,4 +1,5 @@
-# Fase1-230607-Casoli
+# Fase1-230607-Casoli ([mappa](https://umap.openstreetmap.fr/it/map/fase1-230607-casoli_1041690))
+Seconda ricognizione a Casoli per perfezionare la posa dei QRcode e visitare il centro della cittadina
 ## Percorso: Nuovo tracciato 07/06/23 12:11:08
 *Non è disponibile l'immagine dell'accesso al percorso* 
 
