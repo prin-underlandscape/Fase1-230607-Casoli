@@ -2374,7 +2374,7 @@
           },
           "properties": {
             "ulsp_type": "Percorso",
-            "Titolo": "Nuovo tracciato 07/06/23 12:11:08",
+            "Titolo": "Buca La Piella",
             "Data": "2023-06-07",
             "Ora": "10:11:08Z",
             "Strumento": "Android HUAWEI FIG-LX1",
@@ -2382,6 +2382,15 @@
             "Durata": "01h 29m",
             "Dislivello in salita": "84",
             "Dislivello in discesa": "66",
+            "Provincia": "Lucca",
+            "Comune": "Bagni di Lucca",
+            "Punto d'accesso": "via Debbio, dopo edicola votiva",
+            "Foto accesso": "",
+            "Descrizione": "secondo sopralluogo alla Buca della Piella e a Casoli per posizionare nuovi QRcode",
+            "Difficoltà": "Media difficoltà",
+            "Segnaletica": "Non sufficiente",
+            "Copertura GPS": "Parziale",
+            "Copertura rete mobile": "Parziale",
             "_umap_options": {
               "popupTemplate": "Default"
             },
@@ -2408,33 +2417,6 @@
           "geometry": {
             "type": "Point",
             "coordinates": [
-              10.684218,
-              44.035897
-            ]
-          },
-          "properties": {
-            "ulsp_type": "POI",
-            "Foto": "https://www.gaiagps.com/api/objects/photo/fbe987fb-8997-4d79-9af0-270972705c3c/image/full/?publickey=vUIKfOBAWosH4Bxo3ebRRFDA",
-            "Titolo": "Riparo sottoroccia lungo percorso Piella",
-            "Descrizione": "",
-            "Altitudine": 400,
-            "Data": "2023-06-07",
-            "Ora": "10:18:19Z",
-            "Strumento": "Android HUAWEI FIG-LX1",
-            "Autore": "",
-            "Tag primario": "",
-            "Altri tag": "",
-            "_umap_options": {
-              "popupTemplate": "Default"
-            },
-            "GitHubURL": "https://github.com/prin-underlandscape/Fase1-230607-Casoli"
-          }
-        },
-        {
-          "type": "Feature",
-          "geometry": {
-            "type": "Point",
-            "coordinates": [
               10.68403,
               44.036212
             ]
@@ -2442,7 +2424,7 @@
           "properties": {
             "ulsp_type": "POI",
             "Foto": "https://www.gaiagps.com/api/objects/photo/03dc60a9-52ed-4096-b353-2cdf75d925bd/image/full/?publickey=oCYUuroUclUMzgf00UqN4rAM",
-            "Titolo": "Ingresso Piella",
+            "Titolo": "Qrcode Ingresso Buca La Piella",
             "Descrizione": "",
             "Altitudine": 436,
             "Data": "2023-06-07",
@@ -2450,7 +2432,9 @@
             "Strumento": "Android HUAWEI FIG-LX1",
             "Autore": "",
             "Tag primario": "",
-            "Altri tag": "",
+            "Altri tag": [
+              "Segnaletica"
+            ],
             "_umap_options": {
               "popupTemplate": "Default"
             },
@@ -2469,7 +2453,7 @@
           "properties": {
             "ulsp_type": "POI",
             "Foto": "https://www.gaiagps.com/api/objects/photo/fb75f2f0-800b-41ab-a67c-9b345ae62a60/image/full/?publickey=nq6DKluCz8pewxxJQcwEztc1",
-            "Titolo": "Riparo 2",
+            "Titolo": "QRcode Riparo",
             "Descrizione": "",
             "Altitudine": 458,
             "Data": "2023-06-07",
@@ -2477,7 +2461,9 @@
             "Strumento": "Android HUAWEI FIG-LX1",
             "Autore": "",
             "Tag primario": "",
-            "Altri tag": "",
+            "Altri tag": [
+              "Segnaletica"
+            ],
             "_umap_options": {
               "popupTemplate": "Default"
             },
@@ -2496,7 +2482,7 @@
           "properties": {
             "ulsp_type": "POI",
             "Foto": "https://www.gaiagps.com/api/objects/photo/701140b5-961c-454d-a337-9f09380c8844/image/full/?publickey=5LIlts4EgxHP6WPtwqVbp6kD",
-            "Titolo": "Deviazione piella",
+            "Titolo": "QRcode Deviazione Buca La Piella",
             "Descrizione": "",
             "Altitudine": 457,
             "Data": "2023-06-07",
@@ -2504,7 +2490,9 @@
             "Strumento": "Android HUAWEI FIG-LX1",
             "Autore": "",
             "Tag primario": "",
-            "Altri tag": "",
+            "Altri tag": [
+              "Segnaletica"
+            ],
             "_umap_options": {
               "popupTemplate": "Default"
             },
@@ -2552,6 +2540,21 @@
         "popupShape": "Panel",
         "popupTemplate": "Table",
         "popupContentTemplate": "# SITO {Sito}\n{{{Foto}|300}}\n## {Titolo} \n##   [[{GitHubURL}|GitHub repository]] \n## [[{Link}|Link]] alla pagina dedicata\n{Descrizione}\n---\n**Tipologia**: {Tipologia sito}\n**Definizione**: {Definizione}\n**Cronologia iniziale**: {Cronologia iniziale}\n**Cronologia finale**: {Cronologia finale}\n**Reperti ceramici**: {Reperti ceramici}\n**Reperti geologici**: {Reperti geologici}\n**Reperti organici**: {Reperti organici}\n**Altri manufatti**: {Altri manufatti}\n---\n**Altitudine** (m): {Altitudine}\n**Sicurezza**: {Sicurezza}\n**Accessibilità**: {Accessibilità}\n**Copertura rete mobile**: {Copertura rete mobile}\n**Copertura GPS**: {Copertura GPS}\n---\n**Provincia**: {Provincia}\n**Comune**: {Comune}\n**Toponimo**: {Toponimo}\n**Microtoponimo**: {Microtoponimo}\n**Strade d'accesso**: {Strade d'accesso}\n**Altra localizzazione**: {Altri elementi di localizzazione}\n---\n**Prima visita**: {Data} {Ora}\n**Strumento**: {Strumento}\n[[{Bibliografia}|Link]] alla bibliografia"
+      }
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "_umap_options": {
+        "name": "Risorsa",
+        "displayOnLoad": true,
+        "browsable": true,
+        "remoteData": {},
+        "color": "Brown",
+        "iconClass": "Ball",
+        "popupShape": "Panel",
+        "popupTemplate": "Table",
+        "popupContentTemplate": "# {Titolo}\n{{{Foto}|300}}\n{Descrizione}\n**Altitudine** (m): {Altitudine}\n**Repository GitHub**: [[{GitHubURL}|link]]\n**Pagina descrittiva dell'itinerario**: [[{ULSPLink}|link]]\n**Pagina descrittiva della risorsa** :[[{Link}|link]]\n**Tag primario**: {Tag primario}\n**Altri tag**: {Altri tag}"
       }
     }
   ],
