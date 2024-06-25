@@ -1,4 +1,4 @@
-# Fase1-230607-Casoli ([mappa](https://umap.openstreetmap.fr/it/map/fase1-230607-casoli_1041690?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true))
+# Fase1-230607-Casoli ([mappa](https://umap.openstreetmap.fr/it/map/fase1-230607-casoli_1041690))
 Seconda ricognizione a Casoli per perfezionare la posa dei QRcode e visitare il centro del paese
 ## Percorso: Buca La Piella
 **secondo sopralluogo alla Buca della Piella e a Casoli per posizionare nuovi QRcode**
