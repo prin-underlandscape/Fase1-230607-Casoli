@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gpx version="1.1" creator="PyGPX">
+  <wpt lat="44.036212" lon="10.68403">
+    <ele>500</ele>
+    <name>Qrcode Ingresso Buca La Piella</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="44.035847" lon="10.684166">
+    <ele>500</ele>
+    <name>QRcode Riparo</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="44.035693" lon="10.684157">
+    <ele>500</ele>
+    <name>QRcode Deviazione Buca La Piella</name>
+    <desc></desc>
+  </wpt>
+  <trk>
+    <name>Buca La Piella</name>
+    <desc>secondo sopralluogo alla Buca della Piella e a Casoli per posizionare nuovi QRcode</desc>
+    <trkseg>
+      <trkpt lat="[10.684437, 44.036119, 501.85678373184055, 1686132680]" lon="[10.683761, 44.036585, 454.8299652963877, 1686132650]">
+        <ele>[10.684519, 44.036021, 504.9038636246696, 1686132681]</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
